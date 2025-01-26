@@ -15,3 +15,8 @@
 4. Click **Download private key and create resource**.
 
 ![image](https://github.com/user-attachments/assets/619bbcdb-cd14-4fb4-804f-10d8c85bde62)
+
+
+## Author:
+
+- [Sef Adrian Milambiling](https://github.com/AdrianM756)
