@@ -27,3 +27,8 @@
 7. Validation Passed will appear once all the necessary has been input. Click on **Create** and wait for the VM to start running.
 
 ![image](https://github.com/user-attachments/assets/62d741b4-a321-484b-b825-2f220fade031)
+
+
+## Author:
+
+- [Sef Adrian Milambiling](https://github.com/AdrianM756)
